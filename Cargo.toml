@@ -8,3 +8,7 @@ edition = "2021"
 [dependencies]
 raylib = "3.7.0"
 rand = "0.8.5"
+
+[dev-dependencies]
+cargo-profiler = "0.1.6"
+
